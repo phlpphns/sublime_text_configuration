@@ -1,0 +1,22 @@
+{ "auto_formatting": true,
+
+ 	
+
+	"python_interpreter": "~/miniconda3/bin/python",
+
+	"auto_complete": true,
+	"auto_complete_commit_on_tab": false,
+	"show_definitions": true,
+	"tab_completion": true,
+	"pep8": false,
+
+	"auto_complete_triggers":
+[
+    {
+        "characters": ".",
+        "selector": "source.python - source, text.html"
+    }
+]
+
+
+ }

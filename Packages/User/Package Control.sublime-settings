@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"Conda",
+		"gruvbox",
+		"MoveTab",
+		"MoveText",
+		"Package Control",
+		"Rust Enhanced",
+		"RustFmt",
+		"Terminus",
+		"Text Marker",
+		"Theme - Bamboo",
+	],
+	"debug": true,
+}

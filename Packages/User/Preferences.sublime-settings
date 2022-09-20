@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Theme - Bamboo/Bamboo.tmTheme",
+	"font_size": 10,
+	"gpu_window_buffer": true,
+	"ignored_packages":
+	[
+		"Rust",
+		"Vintage",
+	],
+	"theme": "gruvbox.sublime-theme",
+}
